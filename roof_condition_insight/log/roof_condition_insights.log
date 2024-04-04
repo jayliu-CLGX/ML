@@ -1,0 +1,210 @@
+2024-04-02 21:23:03,371 - INFO - 
+
+---
+Starting new run for 200 addresses using parallel processing...
+2024-04-02 21:23:32,519 - INFO - Chunk (0:20)- success: 11/chunk_size
+2024-04-02 21:23:55,284 - INFO - Chunk (20:40)- success: 16/chunk_size
+2024-04-02 21:24:18,345 - INFO - Chunk (40:60)- success: 16/chunk_size
+2024-04-02 21:24:41,060 - INFO - Chunk (60:80)- success: 14/chunk_size
+2024-04-02 21:25:01,072 - INFO - Chunk (80:100)- success: 12/chunk_size
+2024-04-02 21:25:22,181 - INFO - Chunk (100:120)- success: 15/chunk_size
+2024-04-02 21:25:44,281 - INFO - Chunk (120:140)- success: 13/chunk_size
+2024-04-02 21:26:09,161 - INFO - Chunk (140:160)- success: 16/chunk_size
+2024-04-02 21:26:30,728 - INFO - Chunk (160:180)- success: 11/chunk_size
+2024-04-02 21:26:55,760 - INFO - Chunk (180:200)- success: 15/chunk_size
+2024-04-02 21:26:57,045 - INFO - Final RCI Data saved to /home/jupyter/majid/roof-condition-insights/data/datasets/output/rci_data_final_20240402_2126.parquet
+2024-04-02 21:26:57,045 - INFO - Finished running for 200 addresses using parallel processing.
+---
+
+2024-04-02 21:30:42,879 - INFO - 
+
+---
+Starting new run for 26 addresses using parallel processing...
+2024-04-02 21:30:53,723 - INFO - Chunk (0:10) Processed - Success: 5/10
+2024-04-02 21:31:04,728 - INFO - Chunk (10:20) Processed - Success: 6/10
+2024-04-02 21:31:15,453 - INFO - Chunk (20:30) Processed - Success: 5/10
+2024-04-02 21:31:15,617 - INFO - Final RCI Data saved to /home/jupyter/majid/roof-condition-insights/data/datasets/output/Checkpoints_20240402_2130/rci_data_final_20240402_2131.parquet
+2024-04-02 21:31:15,617 - INFO - Finished running for 26 addresses using parallel processing.
+---
+
+2024-04-02 21:34:39,860 - INFO - 
+
+---
+Starting new run for 26 addresses using parallel processing...
+2024-04-02 21:34:57,735 - INFO - Chunk (0:10) Processed - Success: round(5/10)%
+2024-04-02 21:35:15,487 - INFO - Chunk (10:20) Processed - Success: round(6/10)%
+2024-04-02 21:35:28,943 - INFO - Chunk (20:30) Processed - Success: round(5/6)%
+2024-04-02 21:35:29,119 - INFO - Final RCI Data saved to /home/jupyter/majid/roof-condition-insights/data/datasets/output/Checkpoints_20240402_2134/rci_data_final_20240402_2135.parquet
+2024-04-02 21:35:29,119 - INFO - Finished running for 26 addresses using parallel processing.
+---
+
+2024-04-02 21:37:26,146 - INFO - 
+
+---
+Starting new run for 26 addresses using parallel processing...
+2024-04-02 21:37:37,234 - INFO - Chunk (0:10) Processed - Success: 0.5%
+2024-04-02 21:37:50,474 - INFO - Chunk (10:20) Processed - Success: 0.6%
+2024-04-02 21:37:59,795 - INFO - Chunk (20:30) Processed - Success: 0.83%
+2024-04-02 21:37:59,950 - INFO - Final RCI Data saved to /home/jupyter/majid/roof-condition-insights/data/datasets/output/Checkpoints_20240402_2137/rci_data_final_20240402_2137.parquet
+2024-04-02 21:37:59,950 - INFO - Finished running for 26 addresses using parallel processing.
+---
+
+2024-04-02 21:38:01,341 - INFO - 
+
+---
+Starting new run for 26 addresses using parallel processing...
+2024-04-02 21:38:13,708 - INFO - Chunk (0:10) Processed - Success: 50.0%
+2024-04-02 21:38:25,567 - INFO - Chunk (10:20) Processed - Success: 60.0%
+2024-04-02 21:38:34,414 - INFO - Chunk (20:30) Processed - Success: 83.33%
+2024-04-02 21:38:34,575 - INFO - Final RCI Data saved to /home/jupyter/majid/roof-condition-insights/data/datasets/output/Checkpoints_20240402_2138/rci_data_final_20240402_2138.parquet
+2024-04-02 21:38:34,575 - INFO - Finished running for 26 addresses using parallel processing.
+---
+
+2024-04-02 21:40:18,305 - INFO - 
+
+---
+Starting new run for 26 addresses using parallel processing...
+2024-04-02 21:40:28,057 - INFO - Chunk (ind) [0:10] Processed - Success: 50.0%
+2024-04-02 21:40:38,721 - INFO - Chunk (ind) [10:20] Processed - Success: 60.0%
+2024-04-02 21:40:47,561 - INFO - Chunk (ind) [20:26] Processed - Success: 83.33%
+2024-04-02 21:40:47,719 - INFO - Final RCI Data saved to /home/jupyter/majid/roof-condition-insights/data/datasets/output/Checkpoints_20240402_2140/rci_data_final_20240402_2140.parquet
+2024-04-02 21:40:47,719 - INFO - Finished running for 26 addresses using parallel processing.
+---
+
+2024-04-02 21:42:23,789 - INFO - 
+
+---
+Starting new run for 27 addresses using parallel processing...
+2024-04-02 21:42:34,358 - INFO - Chunk (ind) [0:10] Processed - Success: 50.0%
+2024-04-02 21:42:44,588 - INFO - Chunk (ind) [10:20] Processed - Success: 60.0%
+2024-04-02 21:42:53,371 - INFO - Chunk (ind) [20:27] Processed - Success: 71.43%
+2024-04-02 21:42:53,555 - INFO - Final RCI Data saved to /home/jupyter/majid/roof-condition-insights/data/datasets/output/Checkpoints_20240402_2142/rci_data_final_20240402_2142.parquet
+2024-04-02 21:42:53,556 - INFO - Finished running 27 addresses using parallel - Success: 59.26%
+---
+
+2024-04-02 21:44:12,415 - INFO - 
+
+---
+Starting new run for 11695 addresses using parallel processing...
+2024-04-02 22:01:26,123 - INFO - Chunk (ind) [0:1000] Processed - Success: 65.97%
+2024-04-02 22:19:09,802 - INFO - Chunk (ind) [1000:2000] Processed - Success: 64.33%
+2024-04-02 22:36:45,354 - INFO - Chunk (ind) [2000:3000] Processed - Success: 64.56%
+2024-04-02 22:54:27,963 - INFO - Chunk (ind) [3000:4000] Processed - Success: 66.7%
+2024-04-03 00:16:54,152 - ERROR - Authentication failed with status code 401
+2024-04-03 00:16:54,154 - INFO - 
+
+---
+Starting new run for 21 addresses using sequential processing...
+2024-04-03 00:16:54,180 - ERROR - No access token available. Authentication may have failed.
+2024-04-03 00:16:54,180 - ERROR - No access token available. Authentication may have failed.
+2024-04-03 00:16:54,180 - ERROR - No access token available. Authentication may have failed.
+2024-04-03 00:16:54,180 - ERROR - No access token available. Authentication may have failed.
+2024-04-03 00:16:54,180 - ERROR - No access token available. Authentication may have failed.
+2024-04-03 00:16:54,180 - ERROR - No access token available. Authentication may have failed.
+2024-04-03 00:16:54,180 - ERROR - No access token available. Authentication may have failed.
+2024-04-03 00:16:54,180 - ERROR - No access token available. Authentication may have failed.
+2024-04-03 00:16:54,180 - ERROR - No access token available. Authentication may have failed.
+2024-04-03 00:16:54,180 - ERROR - No access token available. Authentication may have failed.
+2024-04-03 00:16:54,180 - ERROR - No access token available. Authentication may have failed.
+2024-04-03 00:16:54,180 - ERROR - No access token available. Authentication may have failed.
+2024-04-03 00:16:54,180 - ERROR - No access token available. Authentication may have failed.
+2024-04-03 00:16:54,180 - ERROR - No access token available. Authentication may have failed.
+2024-04-03 00:16:54,180 - ERROR - No access token available. Authentication may have failed.
+2024-04-03 00:16:54,180 - ERROR - No access token available. Authentication may have failed.
+2024-04-03 00:16:54,180 - ERROR - No access token available. Authentication may have failed.
+2024-04-03 00:16:54,181 - ERROR - No access token available. Authentication may have failed.
+2024-04-03 00:16:54,181 - ERROR - No access token available. Authentication may have failed.
+2024-04-03 00:16:54,181 - ERROR - No access token available. Authentication may have failed.
+2024-04-03 00:16:54,181 - ERROR - No access token available. Authentication may have failed.
+2024-04-03 00:26:57,600 - ERROR - No such comm target registered: jupyter.widget.control
+2024-04-03 00:26:57,602 - WARNING - No such comm: bec6b0eb-aff6-4207-8400-c7c516e69ff5
+2024-04-03 00:28:48,912 - INFO - 
+
+---
+Starting new run for 36 addresses from index 11 using parallel processing...
+2024-04-03 00:29:03,193 - INFO - Chunk (index) [11:21] Processed - Success: 80.0%
+2024-04-03 00:29:13,501 - INFO - Chunk (index) [21:31] Processed - Success: 40.0%
+2024-04-03 00:29:19,476 - INFO - Chunk (index) [31:36] Processed - Success: 60.0%
+2024-04-03 00:29:19,715 - INFO - Finished running for 36 addresses using parallel processing.
+2024-04-03 00:31:27,030 - INFO - 
+
+---
+Starting new run for 36 addresses from index 11 using parallel processing...
+2024-04-03 00:31:40,025 - INFO - Chunk (index) [11:21] Processed - Success: 80.0%
+2024-04-03 00:31:50,060 - INFO - Chunk (index) [21:31] Processed - Success: 40.0%
+2024-04-03 00:31:55,794 - INFO - Chunk (index) [31:36] Processed - Success: 60.0%
+2024-04-03 00:31:55,985 - INFO - Finished running for 36 addresses using parallel processing.
+2024-04-03 00:34:39,275 - INFO - 
+
+---
+Starting new run for 36 addresses from index 11 using parallel processing...
+2024-04-03 00:34:51,335 - INFO - Chunk (index) [11:21] Processed - Success: 80.0%
+2024-04-03 00:35:01,241 - INFO - Chunk (index) [21:31] Processed - Success: 40.0%
+2024-04-03 00:35:07,375 - INFO - Chunk (index) [31:36] Processed - Success: 60.0%
+2024-04-03 00:35:07,556 - INFO - Finished running for 36 addresses using parallel processing.
+2024-04-03 00:39:22,867 - INFO - 
+
+---
+Starting new run for 11695 addresses from index 0 using parallel processing...
+2024-04-03 00:39:34,091 - INFO - Chunk (index) [0:10] Processed - Success: 80.0%
+2024-04-03 00:39:44,445 - INFO - Chunk (index) [10:20] Processed - Success: 70.0%
+2024-04-03 00:39:53,702 - INFO - Chunk (index) [20:30] Processed - Success: 50.0%
+2024-04-03 00:40:04,818 - INFO - Chunk (index) [30:40] Processed - Success: 70.0%
+2024-04-03 00:40:16,526 - INFO - Chunk (index) [40:50] Processed - Success: 50.0%
+2024-04-03 00:41:18,851 - INFO - 
+
+---
+Starting new run for 11695 addresses from index 0 using parallel processing...
+2024-04-03 00:43:21,473 - INFO - 
+
+---
+Starting new run for 11695 addresses from index 0 using parallel processing...
+2024-04-03 00:44:45,947 - INFO - 
+
+---
+Starting new run for 11695 addresses from index 0 using parallel processing...
+2024-04-03 00:53:09,634 - INFO - Chunk (index) [0:500] Processed - Success: 62.0%
+2024-04-03 01:01:38,794 - INFO - Chunk (index) [500:1000] Processed - Success: 67.8%
+2024-04-03 01:10:43,760 - INFO - Chunk (index) [1000:1500] Processed - Success: 69.6%
+2024-04-03 01:19:11,015 - INFO - Chunk (index) [1500:2000] Processed - Success: 70.8%
+2024-04-03 01:27:53,224 - INFO - Chunk (index) [2000:2500] Processed - Success: 67.0%
+2024-04-03 01:36:37,322 - INFO - Chunk (index) [2500:3000] Processed - Success: 68.4%
+2024-04-03 01:44:58,647 - INFO - Chunk (index) [3000:3500] Processed - Success: 70.0%
+2024-04-03 01:53:22,296 - INFO - Chunk (index) [3500:4000] Processed - Success: 68.0%
+2024-04-03 02:01:47,343 - INFO - Chunk (index) [4000:4500] Processed - Success: 68.6%
+2024-04-03 02:10:24,882 - INFO - Chunk (index) [4500:5000] Processed - Success: 69.8%
+2024-04-03 02:18:54,251 - INFO - Chunk (index) [5000:5500] Processed - Success: 70.6%
+2024-04-03 02:27:21,897 - INFO - Chunk (index) [5500:6000] Processed - Success: 70.6%
+2024-04-03 02:35:55,119 - INFO - Chunk (index) [6000:6500] Processed - Success: 69.8%
+2024-04-03 02:44:20,487 - INFO - Chunk (index) [6500:7000] Processed - Success: 68.0%
+2024-04-03 02:52:42,419 - INFO - Chunk (index) [7000:7500] Processed - Success: 70.34%
+2024-04-03 03:01:04,942 - INFO - Chunk (index) [7500:8000] Processed - Success: 67.8%
+2024-04-03 03:09:43,549 - INFO - Chunk (index) [8000:8500] Processed - Success: 59.52%
+2024-04-03 03:18:02,596 - INFO - Chunk (index) [8500:9000] Processed - Success: 60.2%
+2024-04-03 03:26:20,859 - INFO - Chunk (index) [9000:9500] Processed - Success: 64.0%
+2024-04-03 03:35:13,539 - INFO - Chunk (index) [9500:10000] Processed - Success: 67.2%
+2024-04-03 03:43:41,897 - INFO - Chunk (index) [10000:10500] Processed - Success: 61.52%
+2024-04-03 03:52:11,663 - INFO - Chunk (index) [10500:11000] Processed - Success: 62.53%
+2024-04-03 04:00:34,446 - INFO - Chunk (index) [11000:11500] Processed - Success: 63.6%
+2024-04-03 04:03:56,775 - INFO - Chunk (index) [11500:11695] Processed - Success: 69.74%
+2024-04-03 04:05:23,581 - INFO - Finished running for 11695 addresses using parallel processing.
+2024-04-03 04:44:26,610 - ERROR - No such comm target registered: jupyter.widget.control
+2024-04-03 04:44:26,612 - WARNING - No such comm: d2d7e3cc-fb7f-4a11-b0e7-8e948ed577f7
+2024-04-03 05:57:44,871 - ERROR - No such comm target registered: jupyter.widget.control
+2024-04-03 05:57:44,874 - WARNING - No such comm: aef0931e-8e47-4c84-aef0-f7332d1226df
+2024-04-03 07:39:57,572 - ERROR - No such comm target registered: jupyter.widget.control
+2024-04-03 07:39:57,575 - WARNING - No such comm: be57b2fb-60b3-49d3-a496-6a46c8bfee83
+2024-04-03 09:14:18,854 - ERROR - No such comm target registered: jupyter.widget.control
+2024-04-03 09:14:18,856 - WARNING - No such comm: 40dc9532-e785-40c4-87d3-8f3f13255cd9
+2024-04-03 09:14:39,486 - ERROR - No such comm target registered: jupyter.widget.control
+2024-04-03 09:14:39,501 - WARNING - No such comm: 83f72c4d-6003-4bc6-80bd-d8f402b83f32
+2024-04-03 09:41:28,077 - ERROR - No such comm target registered: jupyter.widget.control
+2024-04-03 09:41:28,079 - WARNING - No such comm: d2c3b7bd-f71e-4930-b95d-952d8fc2849d
+2024-04-03 13:32:49,584 - ERROR - No such comm target registered: jupyter.widget.control
+2024-04-03 13:32:49,598 - WARNING - No such comm: 49e45b02-ef79-42c8-95af-253bdbecab9a
+2024-04-03 14:49:20,828 - ERROR - No such comm target registered: jupyter.widget.control
+2024-04-03 14:49:20,829 - WARNING - No such comm: 06cc9c3e-a30d-4a72-a4e7-dc07eeddb48d
+2024-04-03 18:17:12,538 - ERROR - No such comm target registered: jupyter.widget.control
+2024-04-03 18:17:12,541 - WARNING - No such comm: 0054840b-f530-4139-9fa0-917d2047996c
+2024-04-03 18:49:17,903 - ERROR - No such comm target registered: jupyter.widget.control
+2024-04-03 18:49:17,917 - WARNING - No such comm: 8e77e38b-a867-4b1f-b149-a16905ade85e
